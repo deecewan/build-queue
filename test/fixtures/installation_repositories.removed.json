@@ -1,0 +1,72 @@
+{
+  "action": "removed",
+  "installation": {
+    "id": 849334,
+    "account": {
+      "login": "deecewan",
+      "id": 4755785,
+      "node_id": "MDQ6VXNlcjQ3NTU3ODU=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4755785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/deecewan",
+      "html_url": "https://github.com/deecewan",
+      "followers_url": "https://api.github.com/users/deecewan/followers",
+      "following_url": "https://api.github.com/users/deecewan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/deecewan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/deecewan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/deecewan/subscriptions",
+      "organizations_url": "https://api.github.com/users/deecewan/orgs",
+      "repos_url": "https://api.github.com/users/deecewan/repos",
+      "events_url": "https://api.github.com/users/deecewan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/deecewan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "repository_selection": "all",
+    "access_tokens_url": "https://api.github.com/app/installations/849334/access_tokens",
+    "repositories_url": "https://api.github.com/installation/repositories",
+    "html_url": "https://github.com/settings/installations/849334",
+    "app_id": 29210,
+    "target_id": 4755785,
+    "target_type": "User",
+    "permissions": {
+      "issues": "write",
+      "metadata": "read"
+    },
+    "events": ["issues"],
+    "created_at": "2019-04-18T06:38:11.000Z",
+    "updated_at": "2019-04-18T06:38:11.000Z",
+    "single_file_name": null
+  },
+  "repository_selection": "all",
+  "repositories_added": [],
+  "repositories_removed": [
+    {
+      "id": 182028448,
+      "node_id": "MDEwOlJlcG9zaXRvcnkxODIwMjg0NDg=",
+      "name": "buildqueue",
+      "full_name": "deecewan/buildqueue",
+      "private": false
+    }
+  ],
+  "sender": {
+    "login": "deecewan",
+    "id": 4755785,
+    "node_id": "MDQ6VXNlcjQ3NTU3ODU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4755785?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/deecewan",
+    "html_url": "https://github.com/deecewan",
+    "followers_url": "https://api.github.com/users/deecewan/followers",
+    "following_url": "https://api.github.com/users/deecewan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/deecewan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/deecewan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/deecewan/subscriptions",
+    "organizations_url": "https://api.github.com/users/deecewan/orgs",
+    "repos_url": "https://api.github.com/users/deecewan/repos",
+    "events_url": "https://api.github.com/users/deecewan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/deecewan/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+}

@@ -18,5 +18,6 @@ jobs:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "yarn.lock" }}
+      - run: sleep 180 # sleep for 3 minutes to test stuff out
       # run tests!
       - run: yarn test
